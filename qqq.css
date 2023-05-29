@@ -1,0 +1,39 @@
+body {
+    background: url(Bild/4q.jpg);
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo {
+    float: left;
+}
+
+.logoa {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    color: darkgoldenrod;
+}
+
+.menu {
+    float: right;
+    margin-right: 140px;
+    font-size: 15px;
+}
+
+.menua {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    margin-right: 25px;
+    font-size: 15px;
+}
+
+.menua a {
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    margin-right: 25px;
+    font-size: 15px;
+}
