@@ -10,6 +10,7 @@ a {
 .logo {
     float: left;
     margin-left: 35px;
+    margin-top: 5px;
 }
 
 .logoa {
@@ -24,7 +25,7 @@ a {
 
 .menu {
     float: right;
-    margin-right: 140px;
+    margin-right: 1px;
     font-size: 15px;
 }
 
@@ -66,4 +67,36 @@ p img:hover {
 .png :hover {
     width: 28px;
 }
+
+.Video1 {
+    float: right;
+    border: 3px solid black;
+    height: 150px;
+    width: 300px;
+    margin-top: 100px;
+    margin-right: 180px;
+}
 */
+
+.text {
+    background-color: rgba(255, 252, 252, 0.271);
+    float: left;
+    margin-top:120px;
+    margin-right: 150px;
+    margin-left: 40px;
+    text-align: left;
+}
+.München {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 37px;
+    color: black;
+    text-align: left;
+}
+
+.footer {
+    background-color: rgba(255, 252, 252, 0.271);
+    position: absolute;
+    left: 57%;
+    top: 90%;
+
+}
