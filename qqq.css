@@ -9,12 +9,17 @@ a {
 
 .logo {
     float: left;
+    margin-left: 35px;
 }
 
 .logoa {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 35px;
     color: darkgoldenrod;
+}
+
+.logoa:hover {
+    color: dimgray;
 }
 
 .menu {
@@ -37,3 +42,28 @@ a {
     margin-right: 25px;
     font-size: 15px;
 }
+
+.menua a:hover {
+    color: dimgray;
+}
+
+p img {
+    vertical-align: middle;
+    height: 19px;
+    width: 25px;
+}
+
+.png {
+    width: 30px;
+}
+
+/*
+p img:hover {
+    height: 19px;
+    width: 25px;
+}
+
+.png :hover {
+    width: 28px;
+}
+*/
