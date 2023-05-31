@@ -16,11 +16,11 @@ a {
 .logoa {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 35px;
-    color: rgb(226, 224, 192);
+    color: darkgoldenrod;
 }
 
 .logoa:hover {
-    color: rgb(1, 57, 58);
+    color: dimgray;
 }
 
 .menu {
@@ -31,7 +31,7 @@ a {
 
 .menua {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(244, 254, 255);
+    color: black;
     margin-right: 25px;
     font-size: 15px;
 }
@@ -39,24 +39,23 @@ a {
 .menua a {
     text-decoration: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(244, 254, 255);
+    color: black;
     margin-right: 25px;
     font-size: 15px;
 }
 
 .menua a:hover {
-    color: rgb(41, 82, 76);
+    color: dimgray;
 }
 
 p img {
-    background-color: none;
     vertical-align: middle;
     height: 19px;
     width: 25px;
 }
 
 .png {
-    width: 21px;
+    width: 30px;
 }
 
 /*
@@ -80,43 +79,37 @@ p img:hover {
 */
 
 .text {
+    background-color: rgba(255, 252, 252, 0.271);
     float: left;
     margin-top:120px;
     margin-right: 150px;
     margin-left: 40px;
     text-align: left;
-    color: rgb(244, 254, 255);
 }
-
 .München {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 37px;
-    color: rgb(244, 254, 255);
+    color: black;
     text-align: left;
 }
 
 .footer {
+    background-color: rgba(255, 252, 252, 0.271);
     position: absolute;
-    left: 60%;
+    left: 54%;
     top: 90%;
+
 }
 
 .button {
-    height:60px;
-    width: 180px;
+    height:30px;
+    width: 90px;
     float: left;
     margin-top:29%;
-    margin-left: -557px;
 
 }
 
 .butt {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
-    font-weight: bold;
-    color: rgb(244, 254, 255);
-    height:40px;
-    width: 130px;
     background: transparent;
-    border: 3px solid rgb(244, 254, 255);
+
 }
