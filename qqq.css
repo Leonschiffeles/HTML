@@ -59,26 +59,6 @@ p img {
     width: 21px;
 }
 
-/*
-p img:hover {
-    height: 19px;
-    width: 25px;
-}
-
-.png :hover {
-    width: 28px;
-}
-
-.Video1 {
-    float: right;
-    border: 3px solid black;
-    height: 150px;
-    width: 300px;
-    margin-top: 100px;
-    margin-right: 180px;
-}
-*/
-
 .text {
     float: left;
     margin-top:120px;
@@ -119,4 +99,10 @@ p img:hover {
     width: 130px;
     background: transparent;
     border: 3px solid rgb(244, 254, 255);
+}
+
+.butt :hover {
+    color: rgb(1, 57, 58);
+    background: transparent;
+    border: 4px solid rgb(1, 57, 58);
 }
