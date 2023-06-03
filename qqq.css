@@ -101,8 +101,7 @@ p img {
     border: 3px solid rgb(244, 254, 255);
 }
 
-.butt :hover {
+.butt:hover {
     color: rgb(1, 57, 58);
-    background: transparent;
     border: 4px solid rgb(1, 57, 58);
 }
