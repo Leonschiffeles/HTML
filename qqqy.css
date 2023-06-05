@@ -1,5 +1,5 @@
 body {
-    background-image: url(Bild/q.jpg);
+    background-image: url(Bild2/5q.jpg);
     background-size: cover;
 }
 
@@ -16,11 +16,11 @@ a {
 .logoa {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 35px;
-    color: rgb(226, 224, 192);
+    color: rgb(142, 138, 137);
 }
 
 .logoa:hover {
-    color: rgb(1, 57, 58);
+    color: rgb(20, 20, 20);
 }
 
 .menu {
@@ -32,7 +32,7 @@ a {
 
 .menua {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(244, 254, 255);
+    color: rgb(26, 26, 26);
     margin-right: 25px;
     font-size: 15px;
 }
@@ -40,13 +40,13 @@ a {
 .menua a {
     text-decoration: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(244, 254, 255);
+    color: rgb(26, 26, 26);
     margin-right: 25px;
     font-size: 15px;
 }
 
 .menua a:hover {
-    color: rgb(41, 82, 76);
+    color: rgb(142, 138, 137);
 }
 
 p img {
@@ -68,13 +68,13 @@ p img {
 .text {
     margin-top: 30%;
     text-align: left;
-    color: rgb(244, 254, 255);
+    color: rgb(26, 26, 26);
 }
 
 .München {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 37px;
-    color: rgb(244, 254, 255);
+    color: rgb(20, 20, 20);
     text-align: left;
 }
 
@@ -82,16 +82,16 @@ p img {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     font-weight: bold;
-    color: rgb(244, 254, 255);
+    color: rgb(26, 26, 26);
     height:40px;
     width: 130px;
     background: transparent;
-    border: 3px solid rgb(244, 254, 255);
+    border: 3px solid rgb(26, 26, 26);
 }
 
 .butt:hover {
-    color: rgb(1, 57, 58);
-    border: 4px solid rgb(1, 57, 58);
+    color: rgb(142, 138, 137);
+    border: 4px solid rgb(142, 138, 137);
 }
 
 .footer {
