@@ -1,21 +1,27 @@
 body {
-    background-image: url(Bild/Munchen.png);
+    background-image: url(Bild/5q.jpg);
     background-size: cover;
 }
 
 .Thema {
     display: inline-block;
     text-align: center;
-    margin-top: 90px;
+    margin-top: 250px;
+}
+
+.Thema :first-child {
+    margin-right: 50px;
+    margin-left: 50px;
 }
 
 .bild{
 
 }
 .thema {
+    display: inline-block;
     margin-top: 50px;
-    margin-left: 175px;
     border: 6px solid rgb(255, 255, 255);
+    margin-left: 250px;
 }
 .thema a {
     font-size: 30px;
@@ -29,12 +35,12 @@ body {
 }
 
 .thema:hover {
-    color: #7E7E7E;
+    border: 6px solid  #7E7E7E;
 }
 
 .themad {
+    display: inline-block;
     margin-top: 50px;
-    margin-left: 175px;
     border: 6px solid rgb(255, 255, 255);
 }
 
