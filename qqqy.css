@@ -125,6 +125,13 @@ p img {
     width: 300px;
 }
 
+.Münchens {
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(26, 26, 26);
+    font-size: 35px;
+}
+
 .München {
     margin-top: -3px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;

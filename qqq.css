@@ -78,6 +78,13 @@ p img {
     text-align: left;
 }
 
+.Münchens {
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(244, 254, 255);
+    font-size: 35px;
+}
+
 .butt {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
@@ -132,9 +139,6 @@ p img {
     font-size: 12px;
     color: rgb(244, 254, 255);
     text-align: left;
-}
-
-.München:hover {
 }
 
 .butt {
