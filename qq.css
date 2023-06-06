@@ -7,21 +7,15 @@ body {
     display: inline-block;
     text-align: center;
     margin-top: 250px;
+    padding-left: 300px;
 }
 
-.Thema :first-child {
-    margin-right: 50px;
-    margin-left: 50px;
-}
 
-.bild{
-
-}
 .thema {
     display: inline-block;
     margin-top: 50px;
     border: 6px solid rgb(255, 255, 255);
-    margin-left: 250px;
+    margin-left: 15px;
 }
 .thema a {
     font-size: 30px;
@@ -40,6 +34,7 @@ body {
 
 .themad {
     display: inline-block;
+    margin-right: 15px;
     margin-top: 50px;
     border: 6px solid rgb(255, 255, 255);
 }
@@ -56,6 +51,5 @@ body {
 }
 
 .themad:hover {
-    border: 6px solid rgb(1, 57, 58);
-    
+    border: 6px solid rgb(1, 57, 58);   
 }
