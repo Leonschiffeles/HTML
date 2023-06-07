@@ -1,26 +1,30 @@
 body {
-    background-image: url(Bild/);
+    background-image: url(Bild/wg.jpg);
     background-size: cover;
 }
 
 .Begr {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: ;
 }
 
 .zurück {
-
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    color: rgb(31, 34, 34);
+    font-size: 14px;
 }
 
 .Spiel {
-
+    text-align: center;
 }
 
 .dasbild {
+    display: inline-block;
     width: 300px;
     padding: 5px;
-    border: 4px solid black;
+    border: 4px solid rgb(31, 34, 34);
     text-align: center;
+    margin: 10px;
 }
 
 .dasbild:hover {
@@ -33,14 +37,48 @@ body {
 }
 
 .bild:hover {
-    height: 400px;
-    width: 600px;
+    height: 220px;
+    width: 320px;
+    margin-left: -20px;
+    border: 7px solid #f3c13a;
+    
 }
 
 .am {
-
+    text-decoration: none;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(31, 34, 34);
 }
 
 .inp {
+    width: 290px;
+    height: 20px;
+    margin-top: 15px;
+    background-color: transparent;
+    border: 4px solid rgb(31, 34, 34);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(31, 34, 34);
+}
 
+#antwort {
+    cursor: pointer;
+    width: 80%;
+    height: 40px;
+    border: 6px solid rgb(31, 34, 34);
+    color: rgb(31, 34, 34);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    background-color: transparent;
+    font-weight: bolder;
+}
+
+#antwort:hover {
+    background: radial-gradient(#7e7e7e, #fff);
+    color: rgb(255, 255, 255);
+    border: 2px solid #7e7e7e;
 }

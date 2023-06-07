@@ -19,7 +19,7 @@ function Probieren() {
     }
 
     let a3 = document.getElementById("f3").value;
-    if (a3 === "Statue der Bavaria") {
+    if (a3 === "Bavaria") {
         result++;
     }
 
