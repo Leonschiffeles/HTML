@@ -1,0 +1,46 @@
+body {
+    background-image: url(Bild/);
+    background-size: cover;
+}
+
+.Begr {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: ;
+}
+
+.zurück {
+
+}
+
+.Spiel {
+
+}
+
+.dasbild {
+    width: 300px;
+    padding: 5px;
+    border: 4px solid black;
+    text-align: center;
+}
+
+.dasbild:hover {
+    border: none;
+}
+
+.bild {
+    height: 200px;
+    width: 300px;
+}
+
+.bild:hover {
+    height: 400px;
+    width: 600px;
+}
+
+.am {
+
+}
+
+.inp {
+
+}

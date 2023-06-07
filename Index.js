@@ -1,10 +1,11 @@
 function next() {
-    document.getElementById("hthema").classList.remove("hide");
     document.getElementById("wbutt").classList.add("hide");
     document.getElementById("dthema").classList.remove("hide");
+    document.getElementById("hthema").classList.remove("hide");
+    document.getElementById("spiel").classList.remove("hide");
 }
 
-function Probiren() {
+function Probieren() {
     let result = 0;
 
     let a1 = document.getElementById("f1").value;
