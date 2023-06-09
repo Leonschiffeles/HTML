@@ -55,8 +55,13 @@ function Z6() {
     document.getElementById("F6").classList.add("none");
 }
 
+function Z0() {
+    location.reload("document")
+}
 
 function Probieren() {
+    document.getElementById("Z0").classList.remove("none")
+    
     let result = 0;
 
     let a1 = document.getElementById("f1").value;

@@ -64,6 +64,22 @@ body {
     color: rgb(31, 34, 34);
 }
 
+#Z0 {
+    cursor: pointer;
+    background-color:rgb(255, 255, 255);
+    border: 6px solid rgb(31, 34, 34);
+    border-radius: 12px;
+    color:#7e7e7e;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#Z0:hover {
+    background-color: rgb(31, 34, 34);
+    color: rgb(255, 255, 255);
+}
+
 .antwort {
     cursor: pointer;
     width: 44%;
