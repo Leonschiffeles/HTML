@@ -5,6 +5,57 @@ function next() {
     document.getElementById("spiel").classList.remove("hide");
 }
 
+function W1() {
+    document.getElementById("F1").classList.add("none");
+    document.getElementById("F2").classList.remove("none");
+}
+
+function W2() {
+    document.getElementById("F2").classList.add("none");
+    document.getElementById("F3").classList.remove("none");
+}
+
+function Z2() {
+    document.getElementById("F1").classList.remove("none");
+    document.getElementById("F2").classList.add("none");
+}
+
+function W3() {
+    document.getElementById("F3").classList.add("none");
+    document.getElementById("F4").classList.remove("none");
+}
+
+function Z3() {
+    document.getElementById("F2").classList.remove("none");
+    document.getElementById("F3").classList.add("none");
+}
+
+function W4() {
+    document.getElementById("F4").classList.add("none");
+    document.getElementById("F5").classList.remove("none");
+}
+
+function Z4() {
+    document.getElementById("F3").classList.remove("none");
+    document.getElementById("F4").classList.add("none");
+}
+
+function W5() {
+    document.getElementById("F5").classList.add("none");
+    document.getElementById("F6").classList.remove("none");
+}
+
+function Z5() {
+    document.getElementById("F4").classList.remove("none");
+    document.getElementById("F5").classList.add("none");
+}
+
+function Z6() {
+    document.getElementById("F5").classList.remove("none");
+    document.getElementById("F6").classList.add("none");
+}
+
+
 function Probieren() {
     let result = 0;
 
