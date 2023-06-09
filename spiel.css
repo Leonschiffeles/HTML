@@ -1,5 +1,5 @@
 body {
-    background-image: url(Bild/gal2.jpg);
+    background-image: url(Bild/gal2a.jpg);
     background-size: cover;
 }
 
@@ -17,9 +17,6 @@ body {
 
 .none {
     display: none;   
-}
-
-.Spiel {
 }
 
 .dasbild {
