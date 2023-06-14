@@ -66,30 +66,33 @@ p img {
 }
 
 .text {
-    margin-top: 30%;
+    margin-top: 40%;
     text-align: left;
     color: rgb(26, 26, 26);
 }
 
-.München {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 37px;
-    color: rgb(20, 20, 20);
-    text-align: left;
+.Münchens {
+    text-decoration: none;
+	padding-bottom: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(26, 26, 26);
+    font-size: 35px;
+    font-weight: bolder;
 }
 
-.butt {
+.buttt {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     font-weight: bold;
     color: rgb(26, 26, 26);
     height:40px;
-    width: 130px;
+    width: 50%;
     background: transparent;
     border: 3px solid rgb(26, 26, 26);
+	cursor: pointer;
 }
 
-.butt:hover {
+.buttt:hover {
     color: rgb(142, 138, 137);
     border: 4px solid rgb(142, 138, 137);
 }
@@ -97,21 +100,21 @@ p img {
 .footer {
     position: relative;
     float: right;
-    margin-top: 90px;
+	margin-top: 15%;
 }
 
 .kont { 
     display: inline-block;
-    padding-top: 50px;
-    padding-left: 100px;
+    padding-top: 7%;
+	padding-left:  10%;
 }
 
 .kontf {
     display: inline-block;
-    margin-right: 60px;
+	margin-left: 15px;
     position: relative;
-    height: 380px;
-    width: 300px;
+    height: 377px;
+    width: 27%;
     border: 3px solid rgb(26, 26, 26);
     padding: 5px;
 }
@@ -121,20 +124,14 @@ p img {
 }
 
 .bil {
-    height: 225px;
-    width: 300px;
-}
-
-.Münchens {
-    text-decoration: none;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(26, 26, 26);
-    font-size: 35px;
-    font-weight: bolder;
+    height: 200px;
+    width: 100%;
 }
 
 .München {
-    margin-top: -3px;
+	weight: 100%;
+	height: 30%;
+    margin-top: 3px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 12px;
     color: rgb(20, 20, 20);
@@ -148,10 +145,11 @@ p img {
     font-size: 20px;
     font-weight: bold;
     color: rgb(26, 26, 26);
-    height:40px;
-    width: 300px;
+    height: 10%;
+    width: 100%;
     background: transparent;
     border: 3px solid rgb(26, 26, 26);
+	cursor: pointer;
 }
 
 .butt:hover {
@@ -159,34 +157,40 @@ p img {
     border: 4px solid rgb(142, 138, 137);
 }
 
-.butf {
-    position: relative;
-    margin-left: 35px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
-    font-weight: bold;
-    color: rgb(26, 26, 26);
-    height:40px;
-    width: 300px;
-    background: transparent;
-    border: 3px solid rgb(26, 26, 26);
-}
-
 .footerb {
+    margin-top: 7%;
+    width: 90%;
+	padding-left: 5%;
     display: inline-block;
-}
-
-.but {
-    margin-top: 40px;
-    display: inline-block;
-    margin-left: 35px;
 }
 
 .but1 {
-    margin-top: 40px;
-    display: inline-block;
-    margin-left: 35px;
+    float:left;
+    width: 25%;
 }
-.but1{
-    margin-right: 370px;
+
+.but {
+    margin-top: 10px;
+    margin-left: 25%;
+    float: right;
+    width: 50%;
+}
+
+.menuaf {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(26, 26, 26);
+    font-size: 15px;
+
+}
+
+.menuaf a {
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(26, 26, 26);
+    margin-left: 10%;
+    font-size: 15px;
+}
+
+.menuaf a:hover {
+    color: rgb(142, 138, 137);
 }
